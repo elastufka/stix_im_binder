@@ -5,4 +5,4 @@
 
 - 2D histograms of STIX and AIA flare locations
 - Comparison of STIX and AIA flare locations 
-- Comparison of CLEAN, Forward Fit, and Expectation Maxization flare locations with Back Projection 
+- Comparison of CLEAN, Forward Fit, and Expectation Maximization flare locations with Back Projection 
